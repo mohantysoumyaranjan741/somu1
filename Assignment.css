@@ -1,0 +1,145 @@
+<style>
+    
+        body
+        {
+          background-color: white;
+          color: white;
+        } 
+
+    
+section a img
+{
+  padding: 5px;
+  margin-top: 10px;
+  width: 100%;
+  position: relative;
+  margin-bottom: -240px;
+}
+header a
+{
+  font-size: 20px;
+}
+section #txt{
+  position: absolute;
+  color: white;
+  margin-left: 500px;
+  margin-bottom: -100px;
+  font-size: 30px;
+  text-decoration: none;
+
+
+}
+section #txt1
+{
+  position: absolute;
+  color: white;
+  margin-left: 500px;
+  margin-bottom: 50px;
+  text-decoration: none;
+  font-size: 30px;
+}
+header h1{
+  margin-bottom: 0px;
+}
+header{
+  display: flex;
+  align-content: center;
+  justify-content: space-around;
+  margin-bottom: 0px;
+}
+#abc #xyz p{
+  color: black;
+  width: 50%;
+  display: flex;
+  margin-left: 150px;
+  margin-top:21px;
+  margin-bottom: -89px;
+  align-content: center;
+  justify-content: space-around;
+  height: 130px;
+}
+#abc #xyx #hjk{
+  color: black;
+  display: inline-block;
+  margin-left: 150px;
+  margin-top: 200px;
+}
+#abc #xyz{
+  float: left;
+  width: 50%;
+}
+#abc #txt2{
+  float: right;
+  width: 50%;
+  margin-left:692px;
+  margin-top: -457px;
+  margin-bottom: 0px;
+  height: 30px;
+}
+#main1{
+  padding: 40px;
+  width: 100%;
+  background-color: #050561f7;;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 164px;
+  text-align: center;
+}
+#main1 #txt3 {
+    float: left;
+    margin-left: 150px;
+    color: white;
+    padding: 60px;
+    margin-top: 10px;
+
+}
+#main1 #txt4 {
+    float: right;
+    margin-left: 300px;
+    color: white;
+    padding: 60px;
+    margin-top: 10px;
+}
+#main2 #txt5{
+  height: 50px;
+  width: 50px;
+  margin-left: 150px;
+  margin-top:50px ;
+}
+#main2 #txt6{
+  height: 50px;
+  font-size: 20px;
+  margin-left: 613px;
+  margin-top:50px ;
+  color: black;
+}
+#main3{
+  color: white;
+  background-color:#050561f7;
+  width: 100%;
+   display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 164px;
+  text-align: center;
+  padding: 40px;
+  margin-top: 186px;
+  font-size: 25px;
+  margin-bottom: 23px;
+
+}
+footer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+footer h5 a{
+  text-align: center;
+  margin-top: 50px;
+  }
+footer #txt7{
+  text-align: center;
+  margin-top: 40px;
+}
+</style>
